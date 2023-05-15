@@ -11,7 +11,7 @@ The data I found is from various sources. Most of it is from Coindesk but when t
 
 If you look at all the data you can clearly see that it looks like the classic bubble chart.
 
-<img src="/_images/bitcoin-price.png" width="400">
+<img src="/_images/bitcoin-price.png">
 
 <img src="/_images/bubble-phases.png" width="400">
 
