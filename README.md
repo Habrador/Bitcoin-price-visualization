@@ -17,7 +17,7 @@ If you look at all the data you can clearly see that it looks like the classic b
 
 To better see what has happened from an historical point-of-view, one way is to change the price axis to a logarithmic scale. You can now better see the tops and bottoms:
 
-<img src="/_images/bitcoin-price-log" width="400">
+<img src="/_images/bitcoin-price-log.png" width="400">
 
 It's difficult to know where a bottom and a top is. But I've defined a top as the highest price before a fall with more than 50 percent to a bottom. A bottom is the lowest price before a raise to a top which is higher than the top before the fall. A crash is defined as over when the price reaches a new ATH, which bitcoin did 2020-12-01 meaning that the 2017 crash was over.   
 
