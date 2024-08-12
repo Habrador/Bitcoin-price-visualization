@@ -1,6 +1,6 @@
 # Bitcoin price visualization
 
-If you study the history of the cryptocurrency <a href="https://en.wikipedia.org/wiki/Bitcoin" target="_blank">bitcoin</a> you realize that bitcoin has been a really rough ride since it was launched around 2009. If you haven't studied the history of bitcoin you should read the book <a href="https://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent/dp/006236250X" target="_blank">Digital Gold</a> by Nathaniel Popper which covers events up to 2014, so you have to google the rest. If you google you will see that bitcoin reached a price of around $20000 in December 2017, then it crashed, but has since then recovered, reaching a new ATH in 2020. 
+If you study the history of the cryptocurrency <a href="https://en.wikipedia.org/wiki/Bitcoin" target="_blank">bitcoin</a> you realize that bitcoin has been a really rough ride since it was launched around 2009. If you haven't studied the history of bitcoin you should read the book <a href="https://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent/dp/006236250X" target="_blank">Digital Gold</a> by Nathaniel Popper which covers events up to 2014, so you have to google the rest. If you google you will see that bitcoin reached a price of around $73000 in March 2024, then it pulled back a little.
 
 You keep seeing comments that bitcoin is a bubble and it will crash again. But listening to comments by random people on the Internet is not always a good idea. A better idea is to use data and study what has happened before. And you have to use as much data as possible! I've here used data from all the way back in 2010 when the price of a Bitcoin was just $0.09. You can find that data in this repository both as a csv file and in the LibreOffice Calc document! 
 
@@ -31,17 +31,14 @@ Bitcoin has crashed the following times:
 * 2013-12-04: -85 percent
 * 2017-12-16: -84 percent
 * 2021-04-16: -53 percent
-* 2021-11-08: -77 percent
+* 2021-11-09: -77 percent
+* 2024-03-13: -26 percent (not yet a crash according to our definition but might be start of one)
 
 <img src="/_images/bitcoin-crash-graph.png">
 
 Bitcoin has crashed so many times the chart is cluttered, so this is a more visible one:
 
 <img src="/_images/bitcoin-crash-graph-visible.png">
-
-Here I've removed the data of previous crashes except the end points to make it even more visible:
-
-<img src="/_images/bitcoin-crash-graph-minimalistic.png">
 
 Now we can see how well the "classic bubble chart" fits the previous crashes:
 
@@ -50,6 +47,8 @@ Now we can see how well the "classic bubble chart" fits the previous crashes:
 <img src="/_images/bitcoin-bubble-3.png">
 <img src="/_images/bitcoin-bubble-4.png">
 <img src="/_images/bitcoin-bubble-5.png">
+<img src="/_images/bitcoin-bubble-6.png">
+<img src="/_images/bitcoin-bubble-7.png">
 
 You can see that the price crashed below the mean line except in one case where the price bounced on the mean line. 
 
