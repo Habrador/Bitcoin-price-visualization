@@ -7,7 +7,7 @@ You keep seeing comments that bitcoin is a bubble and it will crash again. But l
 
 ## Price
 
-The data I found is from various sources. Most of it is from Coindesk but when they stopped making data available to the public I had to change to data from [Yahoo](https://finance.yahoo.com/chart/BTC-USD). The data consists of one price during the day and not necessarily the highest or lowest price during the day, but that's not a big deal if you look at the price in a wider perspective. 
+The data I found is from various sources. Most of it is from Coindesk but when they stopped making data available to the public I had to change to data from [Yahoo](https://finance.yahoo.com/chart/BTC-USD), and when Yahoo stopped maiking data available I switched to [Investing.com](https://www.investing.com/crypto/bitcoin/btc-usd-historical-data). The data consists of one price during the day and not necessarily the highest or lowest price during the day, but that's not a big deal if you look at the price in a wider perspective. 
 
 If you look at all the data you can clearly see that it looks like the classic bubble chart.
 
@@ -32,7 +32,7 @@ Bitcoin has crashed the following times:
 * 2017-12-16: -84 percent
 * 2021-04-16: -53 percent
 * 2021-11-09: -77 percent
-* 2024-03-13: -26 percent (not yet a crash according to our definition but might be start of one)
+* 2025-10-06: -50 percent 
 
 <img src="/_images/bitcoin-crash-graph.png">
 
@@ -51,16 +51,3 @@ Now we can see how well the "classic bubble chart" fits the previous crashes:
 <img src="/_images/bitcoin-bubble-7.png">
 
 You can see that the price crashed below the mean line except in one case where the price bounced on the mean line. 
-
-
-## Other
-
-This chart visualizes the daily percentage changes for all dates. 
-
-<img src="/_images/bitcoin-daily-changes.png">
-
-I also tried to make charts to compare the bubbles before the crash and he recovery after a crash, but I'm not sure how good they are...
-
-<img src="/_images/bitcoin-bubble-crashes.png">
-
-<img src="/_images/bitcoin-recovery.png">
