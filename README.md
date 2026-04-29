@@ -1,13 +1,13 @@
 # Bitcoin price visualization
 
-If you study the history of the cryptocurrency <a href="https://en.wikipedia.org/wiki/Bitcoin" target="_blank">bitcoin</a> you realize that bitcoin has been a really rough ride since it was launched around 2009. If you haven't studied the history of bitcoin you should read the book <a href="https://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent/dp/006236250X" target="_blank">Digital Gold</a> by Nathaniel Popper which covers events up to 2014, so you have to google the rest. If you google you will see that bitcoin reached a price of around $73000 in March 2024, then it pulled back a little.
+If you study the history of the cryptocurrency <a href="https://en.wikipedia.org/wiki/Bitcoin" target="_blank">bitcoin</a> you realize that bitcoin has been a really rough ride since it was launched around 2009. If you haven't studied the history of bitcoin you should read the book <a href="https://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent/dp/006236250X" target="_blank">Digital Gold</a> by Nathaniel Popper which covers events up to 2014, so you have to google the rest.
 
 You keep seeing comments that bitcoin is a bubble and it will crash again. But listening to comments by random people on the Internet is not always a good idea. A better idea is to use data and study what has happened before. And you have to use as much data as possible! I've here used data from all the way back in 2010 when the price of a Bitcoin was just $0.09. You can find that data in this repository both as a csv file and in the LibreOffice Calc document! 
 
 
 ## Price
 
-The data I found is from various sources. Most of it is from Coindesk but when they stopped making data available to the public I had to change to data from [Yahoo](https://finance.yahoo.com/chart/BTC-USD), and when Yahoo stopped maiking data available I switched to [Investing.com](https://www.investing.com/crypto/bitcoin/btc-usd-historical-data). The data consists of one price during the day and not necessarily the highest or lowest price during the day, but that's not a big deal if you look at the price in a wider perspective. 
+The data I found is from various sources. Most of it is from Coindesk but when they stopped making data available to the public I had to change to data from [Yahoo](https://finance.yahoo.com/chart/BTC-USD), and when Yahoo stopped making data available I switched to [Investing.com](https://www.investing.com/crypto/bitcoin/btc-usd-historical-data). The data consists of one price during the day and not necessarily the highest or lowest price during the day, but that's not a big deal if you look at the price in a wider perspective. 
 
 If you look at all the data you can clearly see that it looks like the classic bubble chart.
 
@@ -24,7 +24,7 @@ It's difficult to know where a bottom and a top is. But I've defined a top as th
 
 ## Bubbles and crashes
 
-Bitcoin has crashed the following times:
+Bitcoin has crashed the following times (the dates are the tops before the crash):
 
 * 2011-06-08: -93 percent
 * 2013-04-09: -71 percent
@@ -49,5 +49,3 @@ Now we can see how well the "classic bubble chart" fits the previous crashes:
 <img src="/_images/bitcoin-bubble-5.png">
 <img src="/_images/bitcoin-bubble-6.png">
 <img src="/_images/bitcoin-bubble-7.png">
-
-You can see that the price crashed below the mean line except in one case where the price bounced on the mean line. 
