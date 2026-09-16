@@ -32,7 +32,7 @@ Bitcoin has crashed the following times (the dates are the tops before the crash
 * 2017-12-16: -84 percent
 * 2021-04-16: -53 percent
 * 2021-11-09: -77 percent
-* 2025-10-06: -50 percent 
+* 2025-10-06: -53 percent 
 
 <img src="/_images/bitcoin-crash-graph.png">
 
